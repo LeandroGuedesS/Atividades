@@ -13,8 +13,8 @@ problemas menores, chamados de funções.
 estruturada, compilada e procedural.
 (D) O paradigma orientado a objetos entende o problema como um conjunto de objetos
 interagindo por meio de troca de mensagens.
-(E) A linguagem de programação C++ é um exemplo de linguagem orientada a objetos,
-que não permite a utilização do paradigma estruturado na solução de um problema. [ X ]
+{--    (E) A linguagem de programação C++ é um exemplo de linguagem orientada a objetos,
+que não permite a utilização do paradigma estruturado na solução de um problema.    --}
 
 
 QUESTÃO 02
@@ -25,7 +25,7 @@ classes diferentes". Observando a afirmação, podemos ver que se trata de um as
 muito importante da POO. Marque qual afirmação explica este aspecto.
 
 (A) Herança múltipla.
-(B) Polimorfismo. [ X ]
+{--    (B) Polimorfismo.    --}
 (C) Caso de uso de engenharia reversa.
 (D) Atributo multivalorado.
 (E) Superclasse.
@@ -41,7 +41,7 @@ o nome deste mecanismo.
 (A) Mensagem.
 (B) Herança.
 (C) Polimorfismo.
-(D) Encapsulamento. [ X ]
+{--    (D) Encapsulamento.    --}
 (E) Subclasse.
 
 
@@ -52,7 +52,7 @@ pelo qual uma classe pode estender outra classe, aproveitando seus métodos e at
 
 Marque a alternativa que apresenta o nome deste mecanismo.
 
-(A) Herança. [ X ]
+{--    (A) Herança.    --}
 (B) Mensagem.
 (C) Encapsulamento.
 (D) Polimorfismo.
@@ -73,7 +73,7 @@ Marque a alternativa que representa corretamente as definições acima.
 
 (A) III, apenas.
 (D) II, apenas.
-(C) I, apenas. [ X ]
+{--    (C) I, apenas.    --}
 (D) II e III, apenas.
 (E) I, II e III.
 
@@ -84,7 +84,7 @@ QUESTÃO 06
 comportamentos e variáveis possíveis". Considerando os conceitos de Programação
 Orientada a Objetos, marque a alternativa que representa essa afirmação.
 
-(A) Trata-se dos conceitos de herança, métodos e atributos. [ X ]
+{--    (A) Trata-se dos conceitos de herança, métodos e atributos.    --}
 (B) subclasse, instância e associação.
 (C) subclasse, encapsulamento e abstração.
 (D) herança, abstração e associação.
@@ -105,9 +105,9 @@ Marque a alternativa que representa corretamente as definições acima.
 
 (A) II, III e IV, apenas.
 (B) I e II, apenas.
-(C) II e IV, apenas.
+{--    (C) II e IV, apenas.    --}
 (D) I, II e III, apenas.
-(E) I, II, III e IV. [ X ]
+(E) I, II, III e IV.
 
 
 QUESTÃO 08
@@ -128,7 +128,7 @@ Marque Verdadeiro ou Falso nas afirmações abaixo.
 
 (A) II, III e IV, apenas.
 (B) I e II, apenas.
-(C) II e IV, apenas. [ X ]
+{--    (C) II e IV, apenas.    --}
 (D) I, II e III, apenas.
 (E) I, II, III e IV.
 
@@ -144,7 +144,7 @@ Marque a alternativa que representa as lacunas a serem preenchidas.
 
 (A) objeto, métodos, assinaturas, Classes, cópias.
 (B) polimorfismo, funções, métodos, Herança, cópias.
-(C) classe, atributos, operações, Objetos, instâncias. [ X ]
+{--    (C) classe, atributos, operações, Objetos, instâncias.    --}
 (D) multiplicidade, símbolos, números, Classes, herdeiros.
 (E) domínio, diagramas, casos de caso, Diagramas de classe, exemplos.
 
@@ -162,7 +162,7 @@ V. Ocorre herança múltipla quando mais de um método é herdado.
 VI. Herança é uma relação entre classes.
 
 (A) I, III e IV.
-(B) I, III e VI. [ X ]
+{--    (B) I, III e VI.    --}
 (C) III, IV e VI.
 (D) II, III e V.
 (E) II, IV e V.
